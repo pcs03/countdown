@@ -1,12 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&family=Ubuntu:ital,wght@0,300;0,400;1,300&display=swap');
 
-@media (min-width: 1281px) {
-    html {
-        font-size: 16px;
-    }
-}
-
-@media (min-width: 320px) {
+@media (max-width: 12px) {
     html {
         font-size: 8px;
     }
