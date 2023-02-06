@@ -13,6 +13,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: top;
+    color: black;
 
     min-height: 100vh;
     font-family: "Ubuntu", sans-serif;
